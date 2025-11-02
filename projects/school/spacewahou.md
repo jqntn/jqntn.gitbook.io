@@ -30,7 +30,7 @@ SpaceWahou — Gameplay
 {% tab title="Available On" %}
 #### ​[​<img src="../../.gitbook/assets/download-solid.png" alt="" data-size="line">​](https://github.com/jqntn/jqntn/raw/main/SpaceWahou.zip) [Direct Download](https://github.com/jqntn/SpaceWahou/releases/latest/download/SpaceWahou.zip) (Recommended) <a href="#download" id="download"></a>
 
-## [​​<img src="../../.gitbook/assets/badge-color.png" alt="" data-size="line">​​](https://unrealitygames.itch.io/space-wahou)
+## [​​<img src="../../.gitbook/assets/badge-color.png" alt="" data-size="line">​​](https://jqntn.itch.io/spacewahou)
 {% endtab %}
 
 {% tab title="More Information" %}
